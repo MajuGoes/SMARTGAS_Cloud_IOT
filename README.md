@@ -13,7 +13,7 @@
 
 ---
 
-## 📝 Contextualização ODS e Justificativa do Projeto
+## 📝 Contextualização e Justificativa do Projeto
 
 O envelhecimento da população brasileira aponta para uma transformação estrutural profunda na composição da nossa sociedade. Segundo dados consolidados do Censo Demográfico de 2022 e as atualizações trazidas pela Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua) do IBGE, o Brasil possui hoje mais de **5,6 milhões de idosos residindo em lares unipessoais**. Esse contingente representa o maior grupo demográfico entre todas as pessoas que vivem sozinhas no país, totalizando quase 29% dessas residências.
 
