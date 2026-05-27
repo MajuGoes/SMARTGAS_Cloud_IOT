@@ -7,9 +7,9 @@
 ---
 
 ## 👥 Componentes da Equipe
-* **Maria Julia Sousa de Aquino Goes - 202402961063**
-* **Fagner Amado Lima - 202212050264**
-* **Arthur Miranda de Oliveira - 202402408224**
+* **Maria Julia Sousa de Aquino Goes**
+* **Fagner Amado Lima**
+* **Arthur Miranda de Oliveira**
 
 ---
 
