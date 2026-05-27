@@ -39,3 +39,5 @@ O **SMARTGÁS** surge como uma resposta tecnológica para mitigar as lacunas de 
 O circuito elétrico e toda a engenharia de arquitetura de hardware foram validados e simulados virtualmente na plataforma Tinkercad.
 
 * 🔗 **Link da Simulação Interativa:** [Acessar Projeto no Tinkercad](https://www.tinkercad.com/things/7GDlxybwOON-spectacular-blorr/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=qpL7NQGQss3GHhnVN6XvzKXSvgP7-TFcaSZU9Ni3MmE)
+
+* 🔗 **Link da Apresentação no Canva:** [Acessar Apresentação SMARTGAS](https://canva.link/o3i51dbqhbenask)
